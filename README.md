@@ -5,3 +5,4 @@ shift + a   -> to end in line selector <br/>
 x   -> delete <br/>
 w  ->movie to each word  <br/>
 u   -> like (strl + z) go back (Undo)
+d$  -> delete from start line selected to end line  <br/>
