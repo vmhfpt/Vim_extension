@@ -10,4 +10,5 @@ yy  -> ctrl + c (copy) <br/>
 p   -> ctrl + v (paste)  <br/>
 gg   -> to top content file  <br/>
 shift + g  -> to bottom content file  <br/>
-<number line> + shift + g  -> to line choosed <br/>
+<number line> + shift + g  -> to line choosed <br/> 
+gg=G => format code
